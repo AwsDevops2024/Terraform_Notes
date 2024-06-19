@@ -1,0 +1,16 @@
+SEARCHING ALGORITHMS
+---------------------------------------
+Searching :-
+-------------
+        It is a process in which we can check whether the KEY ELEMENT is present in LIST OF ELEMENTS or not.
+
+Types of Searching :-
+------------------------
+1.Linear Search Algorithm.
+2.Binary Search Algorithm.
+
+1.Linear Search Algorithm :-
+---------------------------------
+	Compare key element in list of elements one by one until key element is found or array is exhausted.
+
+ 
