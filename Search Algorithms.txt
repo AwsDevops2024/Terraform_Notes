@@ -36,4 +36,22 @@ Output : Key element is found or not.
  else
          print "key element is not found"
 
+Linear Search in Python :-
+------------------------------
+def  linear_ search ( arr , target):
+      for index, value  enumerate( arr ):
+               if value == target:
+                   return index
+return -1
+arr = [10, 20, 30, 40, 50]
+target=30
+result = linear_search(arr,target)
+if result =!-1
+      print(f"element is found{result}")
+else 
+     print("element not found)
+
+
+
+
  
