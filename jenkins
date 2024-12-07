@@ -14,7 +14,7 @@ pipeline{
            }
         stage('stage-3'){
             steps{
-               echo 'HEllo World from stage-3   can you please'
+               echo 'HEllo World from stage-3   can yoplease'
                 }
            }
       }
